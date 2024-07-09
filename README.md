@@ -1,0 +1,1 @@
+Repositry that contains code for poject I have done for a two related courses I took in one semester during university, that were about Artificial Neural Networks and ANLP (Arabic Natural Language Processing)
